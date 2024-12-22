@@ -1,1 +1,1 @@
-# Palm-LLM-Event-Certificate
+# Palm-LLM-Event-Resources
